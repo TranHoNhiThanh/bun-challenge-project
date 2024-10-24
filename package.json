@@ -1,0 +1,17 @@
+{
+  "name": "effect-coding-challenge",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@total-typescript/tsconfig": "^1.0.4",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@effect/platform-bun": "^0.48.6",
+    "@effect/schema": "^0.75.5",
+    "effect": "^3.9.2"
+  }
+}
